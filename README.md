@@ -1,5 +1,5 @@
 ### AI Image genrator
-
+Demo Link : https://aiimgen.netlify.app/
 ### setup .env file
 ```js
 MONGODB_URL=...
